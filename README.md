@@ -99,7 +99,7 @@ Type:           type
 ## Contributors
 
 - Dileep Kishore
-- Emily King
+- Emily 
 
 
 ## Credits
