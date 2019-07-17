@@ -100,6 +100,7 @@ Type:           type
 
 - Dileep Kishore
 - Emily 
+- Durdona Gaibova
 
 
 ## Credits
